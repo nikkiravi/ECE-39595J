@@ -1,6 +1,6 @@
 # ECE-39595J
 
-## Rogue-Game
+## Rogue-Game Project
 This is a text-based game written in Java for my Object Oriented Programming class. The game is based off of the Rogue Game which was originally developed in the 1980s.
 
 ## Relevant Files
